@@ -1,6 +1,6 @@
 ## hello, my name is jay (he/him)
 
-i am a student working towards a computer science degree. i am also an amateur artist who has been drawing on and off (both traditionally and digitally) for about a decade
+i am a student working towards a computer science degree. i am also an self-taught artist who has been drawing on and off (both traditionally and digitally) for about a decade
 
 i am interested in programming for practicality, as well as game logic.
 
