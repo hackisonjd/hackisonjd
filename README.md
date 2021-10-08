@@ -15,6 +15,6 @@ i am interested in programming for practicality, as well as game logic.
 - multi-level machine organization and digital logic
 - cybersecurity analysis and implementation
 
-i like games a lot, some personal favorites are the shin megami tensei series and yakuza series. i am also a big dungeons and dragons guy and like tcgs such as magic the gathering
+i like games a lot, some personal favorites are the shin megami tensei series, yakuza 0, and guilty gear strive. i am also a big dungeons and dragons guy and like tcgs such as magic the gathering.
 
 you can reach me through my discord (hackisonjd#1273) or [my twitter](https://twitter.com/jay_governor)
