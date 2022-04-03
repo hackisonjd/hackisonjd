@@ -1,4 +1,4 @@
-## hello, my name is jay (he/him)
+## hello, my name is jackson (he/him)
 
 i am a student working towards a computer science degree. i am also a self-taught artist who has been drawing on and off (both traditionally and digitally) for about a decade
 
