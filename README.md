@@ -2,7 +2,7 @@
 
 i am a student at james madison university working towards a computer science degree. i am also a self-taught artist who has been drawing on and off (both traditionally and digitally) for about a decade
 
-i am interested in programming for practicality, as well as game logic and network defense.
+i am interested in programming for practicality, as well as game logic and network defense. i am also interested in developing free and open-source software
 
 ## i am currently working on:
 - a discord bot to put on my own personal server
