@@ -1,6 +1,6 @@
 ## hello, my name is jackson (he/him)
 
-i am a student at james madison university working towards a computer science degree. i am also a self-taught artist who has been drawing on and off (both traditionally and digitally) for about a decade
+i am a computer science student and a sysadmin intern.
 
 i am interested in programming for practicality, as well as game logic and network defense. i am also interested in developing free and open-source software
 
