@@ -55,3 +55,6 @@
   <img src="https://img.shields.io/badge/fedora-%23294172.svg?&style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/arch%20linux-%231793D1.svg?&style=for-the-badge&logo=arch%20linux&logoColor=white" />
 </div>
+
+## Stats
+![Jackson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksondarman&showicons=true&theme=tokyonight)
