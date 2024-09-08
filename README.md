@@ -9,7 +9,7 @@
 
 ## Cool Projects
 
-[LekBot](https://github.com/jacksondarman/lekbot) - Lekbot is a Discord bot written in JavaScript that serves information about Civilizations from the Civilization 5 modpack, [Lekmod](https://github.com/EnormousApplePie/Lekmod)!
+[LekBot](https://github.com/jacksondarman/lekbot) - LekBot is a Discord bot written in JavaScript that serves information about Civilizations from the Civilization 5 modpack, [Lekmod](https://github.com/EnormousApplePie/Lekmod)!
 
 [LekScrape](https://github.com/jacksondarman/lekscrape) - LekScrape is a Google Docs scraping utility written in Go that parses data from the [Master List of Civilizations](https://docs.google.com/document/d/1Yy9z-pe9D4S_poTCRzLxmWCalY3QAo2MhGbuV17HmYM/edit) Google Doc.
 
