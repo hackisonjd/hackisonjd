@@ -3,7 +3,8 @@
 
 ## Life
 
-👨‍🎓 [James Madison University](https://www.jmu.edu/cise/cs/index.shtml) Computer Science '25  
+👨‍🎓 [James Madison University](https://www.jmu.edu/cise/cs/index.shtml) Computer Science '25
+
 🐧 [JMU Unix Users Group](https://github.com/jmunixusers) Treasurer, and resident self-hosting shill.
 
 ## Cool Projects
