@@ -1,5 +1,5 @@
 # 🐱‍💻 Jackson Darman
-**`Professional Tinkerer (Software Engineer/Homelabber/Artist)`**
+**`Professional Tinkerer (Software Engineer/Homelabber)`**
 
 ## Life
 
